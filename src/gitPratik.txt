@@ -1,0 +1,12 @@
+Dosyayı İlk defa göndereceğinizde
+1) git init
+2) git add .
+3) git commit -m "versiyon_adi"
+4) git remote add origin https://github.com/.....
+5) git push -u origin master
+
+
+Kodlarınızda değişiklik yaptığınızda tekrar güncellemek için
+1) git add .
+2) git commit -m "versiyon_adı"
+3) git push
